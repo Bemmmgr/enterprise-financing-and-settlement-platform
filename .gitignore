@@ -1,0 +1,13 @@
+
+# macOS
+.DS_Store
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Build output
+target/
+node_modules/
+dist/
